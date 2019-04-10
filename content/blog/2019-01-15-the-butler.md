@@ -1,8 +1,10 @@
 ---
-title: "The butler"
-date: 2019-01-15
-image: /images/butler.jpg
-tags: [Cecil, SSG]
+title: The butler
+date: 2019-01-15T00:00:00.000Z
+image: ''
+tags:
+  - Cecil
+  - SSG
 published: true
 ---
 
