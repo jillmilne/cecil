@@ -4,7 +4,7 @@ site:
   canonicalurl: true
   date:
     format: j F Y
-    timezone: Europe/Paris
+    timezone: Europe/London
   description: Post Production Paperwork - catered to your production's needs.
   netlify:
     cms:
