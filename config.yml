@@ -5,7 +5,7 @@ site:
   date:
     format: j F Y
     timezone: Europe/Paris
-  description: 'Starter blog, with Netlify CMS.'
+  description: Post Production Paperwork - catered to your production's needs.
   netlify:
     cms:
       path: admin
