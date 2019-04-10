@@ -1,11 +1,11 @@
 site:
-  baseline: Post Production Paperwork
+  baseline: Post Production Paperwork - catered to your production's needs.
   baseurl: /
   canonicalurl: true
   date:
     format: j F Y
     timezone: Europe/Paris
-  description: 'Starter blog, with Netlify CMS.'
+  description: Post Production Paperwork - catered to your production's needs.
   netlify:
     cms:
       path: admin
@@ -15,5 +15,5 @@ site:
   pagination:
     max: 5
     path: page
-  title: Jill
+  title: Jill Milne
 theme: hyde
