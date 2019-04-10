@@ -1,5 +1,5 @@
 site:
-  baseline: Post Production Paperwork
+  baseline: Post Production Paperwork - catered to your production's needs.
   baseurl: /
   canonicalurl: true
   date:
@@ -15,5 +15,5 @@ site:
   pagination:
     max: 5
     path: page
-  title: Jill
+  title: Jill Milne
 theme: hyde
