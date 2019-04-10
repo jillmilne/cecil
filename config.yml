@@ -1,6 +1,6 @@
 site:
   baseline: Post Production Paperwork - catered to your production's needs.
-  baseurl: /
+  baseurl: /about
   canonicalurl: true
   date:
     format: j F Y
